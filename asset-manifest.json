@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/focus-viewer/static/css/main.d4c7c5f3.css",
+    "main.js": "/focus-viewer/static/js/main.32695c68.js",
+    "static/js/843.99f0675f.chunk.js": "/focus-viewer/static/js/843.99f0675f.chunk.js",
+    "static/media/ubuntu-all-500-normal.woff": "/focus-viewer/static/media/ubuntu-all-500-normal.d1f289741e5c09c85fc2.woff",
+    "static/media/ubuntu-latin-ext-500-normal.woff2": "/focus-viewer/static/media/ubuntu-latin-ext-500-normal.46caae5f61be18653217.woff2",
+    "static/media/ubuntu-latin-500-normal.woff2": "/focus-viewer/static/media/ubuntu-latin-500-normal.d0e9b48e993b28ecb930.woff2",
+    "static/media/ubuntu-cyrillic-ext-500-normal.woff2": "/focus-viewer/static/media/ubuntu-cyrillic-ext-500-normal.80c71203776a064df1d1.woff2",
+    "static/media/ubuntu-cyrillic-500-normal.woff2": "/focus-viewer/static/media/ubuntu-cyrillic-500-normal.83d6df3572c5e4901a5e.woff2",
+    "static/media/goal_unknown.png": "/focus-viewer/static/media/goal_unknown.fa368efdf835af11a600.png",
+    "static/media/ubuntu-greek-500-normal.woff2": "/focus-viewer/static/media/ubuntu-greek-500-normal.af426600834aff525657.woff2",
+    "static/media/ubuntu-greek-ext-500-normal.woff2": "/focus-viewer/static/media/ubuntu-greek-ext-500-normal.a469e27840086efcfd34.woff2",
+    "static/media/focus_unavailable_bg.png": "/focus-viewer/static/media/focus_unavailable_bg.beb70ab28ff6ebbf1558.png",
+    "index.html": "/focus-viewer/index.html",
+    "main.d4c7c5f3.css.map": "/focus-viewer/static/css/main.d4c7c5f3.css.map",
+    "main.32695c68.js.map": "/focus-viewer/static/js/main.32695c68.js.map",
+    "843.99f0675f.chunk.js.map": "/focus-viewer/static/js/843.99f0675f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4c7c5f3.css",
+    "static/js/main.32695c68.js"
+  ]
+}
