@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e3e138a6.css",
-    "main.js": "/static/js/main.f1b98379.js",
+    "main.js": "/static/js/main.e938a772.js",
     "static/js/757.351632f9.chunk.js": "/static/js/757.351632f9.chunk.js",
     "static/media/ubuntu-all-500-normal.woff": "/static/media/ubuntu-all-500-normal.d1f289741e5c09c85fc2.woff",
     "static/media/ubuntu-latin-ext-500-normal.woff2": "/static/media/ubuntu-latin-ext-500-normal.46caae5f61be18653217.woff2",
@@ -15,11 +15,11 @@
     "static/media/kaiseratlas.svg": "/static/media/kaiseratlas.870fcfc5a9e30145279f.svg",
     "index.html": "/index.html",
     "main.e3e138a6.css.map": "/static/css/main.e3e138a6.css.map",
-    "main.f1b98379.js.map": "/static/js/main.f1b98379.js.map",
+    "main.e938a772.js.map": "/static/js/main.e938a772.js.map",
     "757.351632f9.chunk.js.map": "/static/js/757.351632f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3e138a6.css",
-    "static/js/main.f1b98379.js"
+    "static/js/main.e938a772.js"
   ]
 }
